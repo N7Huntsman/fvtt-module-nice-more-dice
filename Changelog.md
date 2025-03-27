@@ -1,4 +1,6 @@
 # Changelog
+## 1.2.1
+- Update to support Foundry version 12.
 
 ## 1.2.0
 - NEW: Halloween Dice Set - all the spookiness you could ever want
